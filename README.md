@@ -16,6 +16,7 @@
 在正式进入安装之前，请先把cuda和cudnn对应的版本下载好：
 本教程给的例子是 ： **Ubuntu16.04 + cuda8.0 + cudnn6.0 + tensorflow1.1.0**
 
+    链接: https://pan.baidu.com/s/1kVVN9uJ 密码: bftd
 
 ## 安装cuda
 下载包,注意**cuda**的版本，例子是**cuda8.0**的版本
